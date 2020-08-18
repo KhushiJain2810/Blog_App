@@ -81,7 +81,7 @@ app.use(passport.session());
 
 //GOOGLE OAUTH20 STRATEGY
 passport.use(new GoogleStrategy({
-	callbackURL: 'https://jaink2810.run-ap-south1.goorm.io/auth/google/redirect',
+	callbackURL: 'https://jaink20.run-ap-south2.goorm.io/auth/google/redirect',
 	clientID: keys.google.clientID,
 	clientSecret: keys.google.clientSecret
 }, (accessToken, refreshToken, profile, done)=>{
