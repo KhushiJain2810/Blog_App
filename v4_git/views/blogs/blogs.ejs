@@ -1,0 +1,25 @@
+<%- include('../partials/header') %>
+
+<div class="container my-4">
+	<div class="row">
+		<div class="row text-center" style="display: flex; flex-wrap: wrap;">
+			<% blogs.forEach((blog)=>{ %>
+			<div class="col-lg-3"></div>
+				<div class="col-lg-6 col-sm-12 col-xs-12 my-2">
+					<div class="card">
+					  <div class="card-body">
+						  <img src="<%= blog.image %>" class="w-50 mw-50 float-left mr-3">
+						<h5 class="card-title"><%- blog.title %></h5>
+						<p class="card-text"><%- blog.body.substring(0, 100) %>...</p>	
+						  <h6 class="card-subtitle mb-2 text-muted">By <%= blog.author.username %></h6>
+						 <a href="/blogs/<%= blog._id %>" class="card-link">Read More</a> 
+					  </div>
+					</div>
+				</div>
+			<div class="col-lg-3"></div>
+			<% }) %>
+		</div>
+	</div>
+</div>
+
+<%- include('../partials/footer') %>
