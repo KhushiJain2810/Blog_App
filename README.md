@@ -3,10 +3,14 @@
 ## Click [here](https://morning-forest-85332.herokuapp.com/) to view the blog website.
 
 A website where users can create their blogs or view other's blogs.
+Add comments
 
 ## Screenshots
+### Homepage showing all the blogs
 ![](/blogs2.png)
+### Edit or Delete your blog
 ![](/blog2.png)
+### Create a new blog
 ![](/create2.png)
 
 ## Built With
