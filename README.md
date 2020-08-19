@@ -8,7 +8,6 @@ A website where users can create their blogs or view other's blogs.
 ![](/blogs.png)
 ![](/blog.png)
 ![](/create.png)
-![](/authentication.png)
 
 ## Built With
 Node JS
