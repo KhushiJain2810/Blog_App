@@ -5,9 +5,9 @@
 A website where users can create their blogs or view other's blogs.
 
 ## Screenshots
-![](/blogs.png)
+![](/blogs2.png)
 ![](/blog2.png)
-![](/create.png)
+![](/create2.png)
 
 ## Built With
 Node JS
