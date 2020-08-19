@@ -6,7 +6,7 @@ A website where users can create their blogs or view other's blogs.
 
 ## Screenshots
 ![](/blogs.png)
-![](/blog.png)
+![](/blog2.png)
 ![](/create.png)
 
 ## Built With
