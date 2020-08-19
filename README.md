@@ -1,4 +1,4 @@
 ## Blog Application
 
-Click the URL to view the web app.
-[BlogApp](https://morning-forest-85332.herokuapp.com/)
+Click [here](https://morning-forest-85332.herokuapp.com/) to view the blog app.
+
