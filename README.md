@@ -16,6 +16,17 @@ A website where users can create, view, update and delete blogs.
 - Frontend: Bootstrap, CSS, HTML
 - MongoDB (For Database)
 - Heroku (For Deployment)
+
+## Screenshots
+
+### Homepage displaying all blogs
+![](/blogs2.png)
+### Edit or Delete your blog
+![](/blog2.png)
+### Create a new blog
+![](/create2.png)
+
+
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-jain-67133b188/)
 
